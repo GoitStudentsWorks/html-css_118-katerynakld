@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/duzhe-seriozna-komanda/",
+    "build": "vite build --base=/html-css_118-katerynakld/",
     "preview": "vite preview"
   },
   "devDependencies": {
